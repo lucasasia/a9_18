@@ -7,6 +7,7 @@ public class Main
 	  for(int cnt=1;cnt<=10;cnt++)
         {
             System.out.println("cnt=" + cnt);
+            System.out.print("hello")
         }
     }
 }
